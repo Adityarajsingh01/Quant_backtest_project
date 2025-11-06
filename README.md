@@ -27,7 +27,7 @@ This project backtests a Simple Moving Average (SMA) Crossover strategy on `RELI
 
 The strategy successfully reduced risk, lowering volatility from 31% to 22%. It underperformed in a bull market but demonstrates a clear risk-management profile by moving to cash during downturns.
 
-![SMA Strategy P&L](graphsma strategy.png)
+![SMA Strategy P&L][(graphsma strategy.png)](https://github.com/Adityarajsingh01/Quant_backtest_project/blob/main/graphsma%20strategy.png)
 
 ---
 
