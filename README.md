@@ -18,7 +18,7 @@ This is a Python-based backtesting engine to analyze the performance of a Simple
 
 ### Performance Plot
 
-![Strategy P&L]
+![Strategy P&L](backtest_sma.ipynb)
 
 ### Key Analysis
 The strategy successfully reduced risk (volatility) by almost 30% compared to the benchmark, moving to cash during significant downturns.# Quant_backtest_project
